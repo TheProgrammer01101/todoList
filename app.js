@@ -10,5 +10,5 @@ inputElement.addEventListener('keypress', (e)=> {
 });
 
 ulElement.addEventListener('click', (e)=> {
-    e.target.classList.toggle('delete');
+    e.target.classList.toggle('done');
 })
