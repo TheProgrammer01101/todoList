@@ -39,7 +39,7 @@
     user-select: none;
 }
 
-.container li.delete {
+.container li.done {
     text-decoration: line-through;
     color: #999999;
     border-color: #e35b0072;
